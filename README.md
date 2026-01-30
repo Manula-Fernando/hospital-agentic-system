@@ -89,4 +89,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-*Created for AI Internship 2025 | NIBM BSc ML*
+*Created by Manula Fernando 2025 | NIBM BSc ML*
